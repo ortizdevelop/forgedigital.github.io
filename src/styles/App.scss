@@ -1,0 +1,13 @@
+@import './nullstyle.css';
+@import './Imports.scss';
+
+.App {
+    font-family: $ff2;
+    background-color: $color4;
+
+    .container {
+        width: 100%;
+        padding: 0 100px;
+        background-color: $color4;
+    }
+}
